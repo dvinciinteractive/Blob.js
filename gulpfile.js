@@ -15,7 +15,7 @@
             .pipe(plugins.jslint());
     });
 
-    gulp.task('default', ['lint', 'clean'], function () {
+    gulp.task('default', ['clean'], function () {
         /*
          * Load in the JS file
          */
