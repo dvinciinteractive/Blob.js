@@ -1,5 +1,5 @@
 {
-  "name": "dvi-Blob.js",
+  "name": "Blob.js",
   "version": "1.0.0",
   "description": "Implements the W3C Blob interface in browsers that do not natively support it.",
   "main": "src/Blob.js",
