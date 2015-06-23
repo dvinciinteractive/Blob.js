@@ -1,0 +1,19 @@
+{
+  "name": "dvi-Blob.js",
+  "version": "1.0.0",
+  "authors": [
+    "Eli Grey <me@eligrey.com>",
+    "d'Vinci Interactive <developers@dvinci.com>"
+  ],
+  "description": "Implements the W3C Blob interface in browsers that do not natively support it.",
+  "main": "src/Blob.js",
+  "license": "MIT",
+  "homepage": "https://github.com/dvinciinteractive/Blob.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
